@@ -1,0 +1,23 @@
+body {
+    font-family: 'Amatic SC', cursive;
+    margin: 1cm;
+    padding: 10px;
+    background-color: lightblue;
+}
+header{
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+    padding: 1 cm;
+
+
+}
+
+.image {
+    height: 300px;
+    width: auto;
+
+}
+#bottom {
+    font-weight: bold;
+}
